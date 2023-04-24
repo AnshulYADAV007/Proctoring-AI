@@ -5,9 +5,9 @@ Project to create an automated proctoring system where the user can be monitored
 ### Prerequisites
 To run the programs in this repo, do the following:
 - create a virtual environment using the command:
-  - `python -m venv venv`
+  - `python -m venv proctoring`
 - activate the virtual environment
-  - `cd ./venv/Scripts/activate` (windows users)
+  - `./proctoring/Scripts/activate` (windows users)
   - `source ./venv/bin/activate` (mac and linux users)
 - install the requirements
   - `pip install --upgrade pip` (to upgrade pip)
